@@ -12,16 +12,14 @@ I have a MSc in Computer Science and Engineering from NOVA School of Science and
 
 ### Skills and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=rust,cpp,python,ts,solidity,linux,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,rust,react,ts,sql,flutter,solidity,linux,docker,git)](https://skillicons.dev)
 
 
 ---
 
 ### Links
 
-Website: pedromgcatarino.com
-
-LinkedIn: https://www.linkedin.com/in/pedromgcatarino/
-
-Email: pedrocatarinodev@gmail.com
+**Website:** [pedromgcatarino.com](https://pedromgcatarino.com)  
+**LinkedIn:** [linkedin.com/in/pedromgcatarino](https://www.linkedin.com/in/pedromgcatarino/)  
+**Email:** pedrocatarinodev@gmail.com
 
