@@ -1,16 +1,13 @@
 # Hi there, I'm Pedro Catarino 👋
 
-I'm a passionate Software Engineer based in Lisbon. I love building applications and constantly learning new things. I am currently obsessed with Blockchain technology and applied cryptography, specifically Zero-Knowledge Proofs. 
-
-I have a MSc in Computer Science and Engineering from NOVA School of Science and Technology.
+I'm a passionate Software Engineer based in Lisbon. I have a MSc in Computer Science and Engineering from NOVA School of Science and Technology.
+I love building applications and constantly learning new things. My current obsession is with Blockchain technology and applied cryptography, specifically Zero-Knowledge Proofs. 
 
 
 
 ---
 
-### Skills and Tools
-
-### Skills and Tools
+### My Skills 
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,rust,react,ts,sql,flutter,solidity,linux,docker,git)](https://skillicons.dev)
 
