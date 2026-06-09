@@ -9,7 +9,7 @@ I love building applications and constantly learning new things. My current obse
 
 ### My Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,rust,react,ts,sql,flutter,solidity,linux,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,rust,react,ts,postgres,flutter,solidity,linux,docker,git)](https://skillicons.dev)
 
 
 ---
